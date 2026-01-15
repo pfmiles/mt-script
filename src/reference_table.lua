@@ -1,0 +1,1 @@
+-- The reference table is used to define a table containing all referable key-value pairs, and this table determines which values and functions can be directly referenced in the script

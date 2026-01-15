@@ -1,0 +1,1 @@
+-- entry of the mt-script language
