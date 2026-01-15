@@ -1,3 +1,5 @@
+NOTEZ: THIS IS UNDER HEAVY DEVELOPMENT AND IS NOT READY FOR USE, COME BACK LATER IF INTERESTED!!!
+
 # mt-script
 A rule-definition-style syntax, extensible scripting language and its execution engine.
 
